@@ -1,0 +1,58 @@
+C++ sort took : 0.120000 sec on test 1
+C++ sort took : 0.086000 sec on test 2
+C++ sort took : 0.211000 sec on test 3
+C++ sort took : 0.222000 sec on test 4
+C++ sort took : 0.227000 sec on test 5
+C++ sort took : 0.201000 sec on test 6
+C++ sort took : 0.214000 sec on test 7
+C++ sort took : 0.243000 sec on test 8
+C++ sort took : 0.226000 sec on test 9
+C++ sort took : 0.205000 sec on test 10
+
+
+Heap sort took : 0.210000 sec on test 1
+Heap sort took : 0.209000 sec on test 2
+Heap sort took : 0.273000 sec on test 3
+Heap sort took : 0.275000 sec on test 4
+Heap sort took : 0.250000 sec on test 5
+Heap sort took : 0.246000 sec on test 6
+Heap sort took : 0.289000 sec on test 7
+Heap sort took : 0.302000 sec on test 8
+Heap sort took : 0.294000 sec on test 9
+Heap sort took : 0.254000 sec on test 10
+
+Quick sort took forever to run on test 1
+Quick sort took forever to run on test 2
+Quick sort took : 0.116000 sec on test 3
+Quick sort took : 0.128000 sec on test 4
+Quick sort took : 0.142000 sec on test 5
+Quick sort took : 0.120000 sec on test 6
+Quick sort took : 0.138000 sec on test 7
+Quick sort took : 0.125000 sec on test 8
+Quick sort took : 0.127000 sec on test 9
+Quick sort took : 0.129000 sec on test 10
+
+
+Merge Sort took : 0.640000 sec on test 1
+Merge Sort took : 0.719000 sec on test 2
+Merge Sort took : 0.733000 sec on test 3
+Merge Sort took : 0.795000 sec on test 4
+Merge Sort took : 0.777000 sec on test 5
+Merge Sort took : 0.731000 sec on test 6
+Merge Sort took : 0.729000 sec on test 7
+Merge Sort took : 0.721000 sec on test 8
+Merge Sort took : 0.751000 sec on test 9
+Merge Sort took : 0.695000 sec on test 10
+
+
+Python Sort took = 0.014932 seconds on test 1
+Python Sort took = 0.007229 seconds on test 1
+Python Sort took = 0.008607 seconds on test 2
+Python Sort took = 0.258987 seconds on test 3
+Python Sort took = 0.349314 seconds on test 4
+Python Sort took = 0.321889 seconds on test 5
+Python Sort took = 0.258729 seconds on test 6
+Python Sort took = 0.279150 seconds on test 7
+Python Sort took = 0.237479 seconds on test 8
+Python Sort took = 0.275415 seconds on test 9
+Python Sort took = 0.284755 seconds on test 10
