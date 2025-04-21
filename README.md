@@ -6,3 +6,7 @@ Lưu lại bài tập về nhà của môn CTDL&amp;GT
 ![Alternate image text](/Week1/Sorting-Algos.png)
 
 ## Week 2: Thử nghiệm thời gian chạy của những thuật toán sắp xếp
+
+## Week 3: Thực hành Only
+
+## Week 4: KMP + Thực Hành
